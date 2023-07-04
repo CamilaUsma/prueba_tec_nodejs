@@ -9,6 +9,8 @@ Este proyecto esta desarrollado totalmente en javaScript. He usado nodejs para c
 para correr cada uno de los ejercicios debes correr los siguientes comandos:
 
 :desktop_computer: Para correr el primer ejercicio: npm run punto1.
+
 :blue_book: Para correr el segundo ejercicio: npm run punto2.
+
 💵 Para correr el tercer ejercicio: npm run punto3.
 
